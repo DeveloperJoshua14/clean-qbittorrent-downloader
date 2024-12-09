@@ -17,4 +17,4 @@ This could just be a gmail account, just make sure you have it all setup correct
 
 ## Code
 The code is a mess, so good luck. It works for me. I hope if it is what you need that it helps.
-If you need help, DM me. (:
+If you need help, email me. (:
